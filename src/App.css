@@ -1,0 +1,20 @@
+.icon {
+  width: 1.5em; 
+  height: 1.5em; 
+  display: inline-flex; 
+  align-items: center; 
+  justify-content: center; 
+  fill: currentColor;
+  transition: fill 0.2s ease-in-out;
+  font-size: inherit;
+}
+
+.viewport {
+  height: 100%; 
+  width: 100%; 
+  overflow: auto;
+}
+
+li {
+  text-transform: capitalize; 
+}
