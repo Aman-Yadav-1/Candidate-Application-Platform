@@ -1,9 +1,5 @@
 # Instructions to run the application locally
 
-- Clone the project or download the zip file of it
-  ```bash
-  git clone https://github.com/suneelfm/suneelfm-weekday-test.git
-  ```
 - Install the all node_modules by using following script
   ```bash
   npm i
